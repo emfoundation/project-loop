@@ -6,3 +6,5 @@ Tooling will revolve around Gatsby, React, GitHub / GitHub actions, Gatsby Cloud
 Problem we're trying to solve is how to start bringing in some automation work into our build process.
 
 This will also help with understanding gatsby's build process and when to trigger builds based on things like content changes.
+
+[![CircleCI](https://circleci.com/gh/emfoundation/project-loop/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/emfoundation/project-loop/tree/circleci-project-setup)
