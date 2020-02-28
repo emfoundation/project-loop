@@ -1,7 +1,7 @@
 # project-loop
 Project for CI/CD developments.
 
-Tooling will revolve around Gatsby, React, GitHub / GitHub actions and Circle CI.
+Tooling will revolve around Gatsby, React, GitHub / GitHub actions, Gatsby Cloud and Circle CI.
 
 Problem we're trying to solve is how to start bringing in some automation work into our build process.
 
