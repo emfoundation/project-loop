@@ -1,7 +1,9 @@
 # project-loop
 Project for CI/CD developments.
 
-This is currently being run from https://github.com/daniel-vc/project-loop
+CraftCMS currently being run from https://github.com/daniel-vc/project-loop
+
+Gatsby front-end is being run from https://github.com/daniel-vc/project-loop-gatsby
 
 Tooling will revolve around Gatsby, React, GitHub / GitHub actions, Gatsby Cloud and Circle CI.
 
