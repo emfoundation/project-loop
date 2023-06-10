@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/emfoundation/project-loop#readme",
   "dependencies": {
-    "gatsby": "^2.19.22",
+    "gatsby": "^4.25.7",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   }
